@@ -899,3 +899,9 @@ button:hover span { color: white; }
   .home { padding: 10rem 0 2rem; }
   .home__img img { max-width: 480px; }
 }
+
+/* Resume Button */
+.resume-btn{
+    padding: 12px 20px;
+    min-width: auto;
+}
