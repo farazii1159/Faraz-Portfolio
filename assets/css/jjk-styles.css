@@ -156,6 +156,7 @@ img { max-width: 100%; height: auto; display: block; }
   top: 0;
   left: 0;
   z-index: 999999 !important;
+  isolation: isolate;
   /*z-index: var(--z-fixed); */
   background-color: black;
   transition: background-color 0.4s ease, backdrop-filter 0.4s ease, box-shadow 0.4s ease;
@@ -268,7 +269,7 @@ img { max-width: 100%; height: auto; display: block; }
   row-gap: 5rem;
   padding: 4rem 0 5rem;
   min-height: 100vh;
-  overflow: hidden;
+  /*overflow: hidden;*/
   align-items: center;
 }
 
