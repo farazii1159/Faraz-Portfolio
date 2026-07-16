@@ -39,3 +39,4 @@ This site serves as a central hub for my journey as an aspiring DevOps Engineer.
 ## License
 
 All code in this repo is © Faraz Shabbir. The illustration assets in `assets/img/` and `assets/certs/` belong to their respective creators / issuers.
+
